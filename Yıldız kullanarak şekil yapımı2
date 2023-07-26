@@ -1,0 +1,8 @@
+for (int i = 1; i <= 5; i++)
+
+
+
+    println(" " * (5 - i) + "*" * i)
+    
+/* sol tarafı boşluk sağ tarafa dayalı olan alt alta artan yıldız kombinasyonu
+

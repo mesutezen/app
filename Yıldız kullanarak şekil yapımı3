@@ -1,0 +1,7 @@
+for(int i = 5; i<=5; i-- )
+     
+     println("*" * i)
+     
+     /* yan yana 5 yıldızdan başlayıp azalarak aşağı inen döngü*/
+     
+   
